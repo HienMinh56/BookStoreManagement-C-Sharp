@@ -12,8 +12,9 @@ Update Category
 ```
 How to use
 ```bash
-run .sln file
+Run .sln file
 Change database in appsettings.json
+Run the .sql file to create database using SQLServer
 ```
 If you have any complaints about code copyright, please <a href="https://hienminh56-contact.netlify.app">Contact Me</a> and state the reason. If copyright is involved, I will remove it immediately.
 
